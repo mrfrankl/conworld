@@ -1,0 +1,11 @@
+Plate tectonics:
+
+Idea - use Ising model to generate fractal boundaries, then assign plate drift velocities:
+  -velocities from, say, 3d6 cm/year in a random direction?
+  -Specified as relative to a fixed "zero point", which is debatable.
+May add in extra small plates near boundaries
+  -Also hot spots, plumes
+  
+Ensure faults are dealt with properly.
+  -Use to lay oceans, mountains, island chains, areas of tectonic activity
+  
