@@ -1,0 +1,1 @@
+To-do: create local solar system, and details of planet in focus, without getting tangled in larger cosmological considerations. 
